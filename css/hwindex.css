@@ -67,8 +67,8 @@ nav a:hover {
     h1 {
       font-size: 5em; /* 字體大小 */
        color: rgba(128, 0, 0, 0.5); /* 主要顏色，加上 80% 透明度 */
-      margin-bottom: -3em; /* 底部間距 */
-	  margin-left: -5em;
+      margin-bottom: -4em; /* 底部間距 */
+	  margin-left: -3em;
       
 	}
 
